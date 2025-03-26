@@ -55,7 +55,7 @@ https://public.tableau.com/app/profile/lyster.k/viz/obj3_17429359971780/objectiv
 
  From the figure we can clearly see that the Aircrafts with more than 4 engines have lesser occurrences of accidents.This could also mean that those aircrafts with less than four engines have a greater probability of accidents.
 
- ## Conclusions
+ ## Findings
 1.From the graphical representation above we can see that the accidents takes 95.6% of the investigation done while the incidences take 4.4% of the investigation done.
 
 2.The Model with the most accident occurences is the 152 model with 2348 number of accidents  followed by 172 model with 1744 number of accidents.
@@ -67,6 +67,12 @@ https://public.tableau.com/app/profile/lyster.k/viz/obj3_17429359971780/objectiv
 
 
 We can see that the aircrafts with more than 4 engines have lesser occurrences of accidents. This would also mean that the aircrafts with less than four engines have a greater probability of accidents. 
+## Conclusions:
+
+ 1.The aircraft model with the highest number of accidents is the 152 model, followed by the 172 model. 
+ 
+ 2.In terms of aircraft make, Cessna has the most accident occurrences, followed by Piper. Geographically, Anchorage is identified as the riskiest location for aircraft operations, while Orlando and Chicago are comparatively safer.
+ 3.Aircraft with more than four engines show fewer accidents, suggesting that opting for planes with four or more engines may reduce the likelihood of accidents.
 
 ## Recommendations
 1.Avoid aircraft makes and models that have high accident rates, including brands like Cessna and Piper.
