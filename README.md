@@ -4,7 +4,24 @@
 
  ## OVERVIEW
 our company is expanding in to new industries to diversify its portfolio. Specifically, they are interested in purchasing and operating airplanes for commercial and private enterprise  which will be a key step in our growth strategy. To align this expansion with our strategic goals, we will rely on data-driven insights to inform our decisions. A thorough risk assessment will be carried out using aviation accident data spanning from 1993 to 2023. The analysis aims to identify aircraft models and makes with a higher likelihood of severe accidents or operational failures, determine locations that pose higher risks for aircraft operations, and assess the optimal number of engines required for stable and safe flights.
+## DATA UNDERSTANDING.
+The NTSB aviation accident database contains information from 1962 and later about civil aviation accidents and selected incidents within the United States, its territories and possessions, and in international waters. This dataset drawn from kaggle initially had 33 columns and 88889 rows.The dataset provides insights into trends of accidents and incidents across different aircraft types , locations  among other key attributes. This dataset is important for investigating safety concerns,potential areas for risk mitigation in aviation operations.
  
+ ## DATA CLEANING:
+The Python libaries imported for analysis were matplotlib,pandas and numpy. The data was cleaned using the Visual Studio code editor.Below were the steps followed for data cleaning
+
+ -Importing the relevant python libraries.
+ -Loading and reading the CSV file.
+ -Inspecting and understanding the data.
+ -Data Cleaning.
+ -Checked for erroneous values
+ -Dropped all the irrelevant columns and those that had alot of missing values 
+ -Filled in  the missing values for both the numerical columns  and categorical columns.
+ -Then we stripped all the white spaces.
+ -Removed the '.' in the column names and replaced with '_'
+ -Added a few other columns
+ After the above steps the cleaned data was saved to a csv file.
+
  ## BUSINESS UNDERSTANDING
 Our company is expanding into the aviation industry, seeking to purchase and operate aircraft for both commercial and private enterprises. To ensure this venture is both safe , we need to assess the risks associated with different aircraft models, operational environments, and structural designs. Specifically, the objectives of this analysis are to:
 
