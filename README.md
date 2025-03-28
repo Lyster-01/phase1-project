@@ -3,7 +3,7 @@
  ## AIRCRAFT RISK EVALUATION
 
  ## OVERVIEW
-our company is expanding in to new industries to diversify its portfolio. Specifically, they are interested in purchasing and operating airplanes for commercial and private enterprise  which will be a key step in our growth strategy. To align this expansion with our strategic goals, we will rely on data-driven insights to inform our decisions. A thorough risk assessment will be carried out using aviation accident data spanning from 1993 to 2023. The analysis aims to identify aircraft models and makes with a higher likelihood of severe accidents or operational failures, determine locations that pose higher risks for aircraft operations, assess the optimal number of engines required for stable and safe flights and analyze the Total fatal injuries by the purpose of flight.
+Our company is expanding in to new industries to diversify its portfolio. The company is interested in purchasing and operating airplanes for commercial and private enterprise  which will be a key step in our growth strategy. To align this expansion with our strategic goals, we will rely on data-driven insights to inform our decisions. A thorough risk assessment will conducted using aviation accident data spanning from 1993 to 2023. The analysis aims to identify aircraft models and makes with a higher likelihood of severe accidents or operational failures, determine locations that pose higher risks for aircraft operations, assess the optimal number of engines required for stable and safe flights and analyze the Total fatal injuries by the purpose of flight.
 
 ## BUSINESS QUESTIONS
   1. Which flight operations have the highest risk of fatal injuries?
@@ -11,9 +11,9 @@ our company is expanding in to new industries to diversify its portfolio. Specif
   3. Which are the locations safe for aircraft navigation?
   4. What are the optimal number of engines sufficient for ensuring the stability and safety of aircraft operations?
  
- ## BUSINESS UNDERSTANDING
+## BUSINESS UNDERSTANDING
 Our company is expanding into the aviation industry, seeking to purchase and operate aircraft for both commercial and private enterprises. To ensure this venture is both safe , we need to assess the risks associated with different aircraft models, operational environments, and structural designs. Specifically, the objectives of this analysis are :
-1. Analyze the Total fatal injuries by the purpose of flight
+1. Analyze the Total fatal injuries by the purpose of flight.
 
 2. Identify aircraft models and makes with a higher likelihood of severe accidents or operational failures.
 
@@ -23,7 +23,7 @@ Our company is expanding into the aviation industry, seeking to purchase and ope
 
  By achieving these objectives, we will be able to select aircraft models and operational strategies that align with the company’s goals of safety and  reliability minimizing potential risks as we enter this new industry.
 
- ## DATA UNDERSTANDING.
+## DATA UNDERSTANDING.
 The NTSB aviation accident database contains information from 1962 and later about civil aviation accidents and selected incidents within the United States, its territories and possessions, and in international waters. This dataset drawn from kaggle initially had 31 columns and 88889 rows.The dataset provides insights into trends of accidents and incidents across different aircraft types , locations  among other key attributes. This dataset is important for investigating safety concerns,potential areas for risk mitigation in aviation operations.
 
 ## DATA CLEANING:
@@ -60,7 +60,7 @@ From the above figure we can see the personal flight purpose is more prone to fa
 ##### Objective 2:Identify aircraft models and makes with a higher likelihood of  accidents 
 This  objective will be addressed using two visualizations for  to identify the number of accidents per make and per model. To be able to achieve this,we grouped and also got the counts the number of accidents based on the Make and Model of the aircraft, then sorted the results in descending order.
 
-##### Objective 2.1:Identify aircraft  make with a highest likelihood of  accidents 
+   ##### Objective 2.1:Identify aircraft  make with a highest likelihood of  accidents 
 The figure below is a graphical representation that shows the aircraft make with the highest number of accidents .
 ![alt text](v1.1-1.png)
 https://public.tableau.com/views/Book1_17431043130560/v1_1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
@@ -102,14 +102,15 @@ https://public.tableau.com/views/Book3_17431062493320/V3?:language=en-US&publish
 5.The personal flight purpose is more prone to fatal accidents with a total of 18762 Total Fatal injuries.
 
 
-We can see that the aircrafts with more than 4 engines have lesser occurrences of accidents. This would also mean that the aircrafts with less than four engines have a greater probability of accidents. 
+6.We can see that the aircrafts with more than 4 engines have lesser occurrences of accidents. This would also mean that the aircrafts with less than four engines have a greater probability of accidents. 
 
 ## Conclusions:
  1.The personal flight purpose is more prone to fatal accidents.
  2.The aircraft model with the highest number of accidents is the 152 model, followed by the 172 model. 
  
- 3.In terms of aircraft make, Cessna has the most accident occurrences, followed by Piper. Geographically, Anchorage is identified as the riskiest location for aircraft operations, while Orlando and Chicago are comparatively safer.
- 4.Aircraft with more than four engines show fewer accidents, suggesting that opting for planes with four or more engines may reduce the likelihood of accidents.
+ 3.In terms of aircraft make, Cessna has the most accident occurrences, followed by Piper.  
+ 4.Geographically, Anchorage is identified as the riskiest location for aircraft operations, while Orlando and Chicago are comparatively safer.
+ 5.Aircraft with more than four engines show fewer accidents, suggesting that opting for planes with four or more engines may reduce the likelihood of accidents.
 
 ## Recommendations
 1.Prioritize and focus on the commercial and business flight operations where regulatory oversight and safety protocols must exist.
