@@ -52,8 +52,8 @@ C:\Users\Lyster\Documents\Phase1_Project\images\image.png
 
 ##### Objective 1: To analyze the Total Fatal Injuries by the Purpose of Flight.
 The figure below is a graphicel representation of the Total Fatal by the purpose of flight.
-![alt text](V4-1.png)
-https://public.tableau.com/app/profile/lyster.k/viz/Book4_17431066189580/V4?publish=yes
+![alt text](image4.png)
+
 
 From the above figure we can see the personal flight purpose is more prone to fatal accidents.
 
@@ -62,30 +62,26 @@ This  objective will be addressed using two visualizations for  to identify the 
 
    ##### Objective 2.1:Identify aircraft  make with a highest likelihood of  accidents 
 The figure below is a graphical representation that shows the aircraft make with the highest number of accidents .
-![alt text](v1.1-1.png)
-https://public.tableau.com/views/Book1_17431043130560/v1_1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+![alt text](image1.png)
 
 From the figure plotted above it can be clearly seen that the Make with the most accident occurences is Cessna  with 26793 number of accidents  followed by Piper with 14684 number of accidents.
 
 
    ##### Objective 2.2 :Identify aircraft  models with the highest likelihood of  accidents 
 The figure below is a graphical representation that shows the aircraft models with the highest number of accidents .
-![alt text](V1.2-1.png)
-https://public.tableau.com/views/Book1_17431043130560/V1_2?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+![alt text](image1.2.png)
 
 From the figure plotted above it can be clearly  that the Model with the most accident occurences is the 152 model with 2348 number of accidents  followed by 172 model with 1744 number of accidents.
 
 ##### Objective 3: Investigate the  locations that have historically proven risky for aircraft operations, highlighting potential geographic safety concerns.
 The figure below aimed to pinpoint the locations that have historically risky for aircraft operations.This would be visualized by showing the locations with high accident occurrences.
-![alt text](V2-1.png)
-https://public.tableau.com/views/Book1_17431043130560/V2?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+![alt text](image2.png)
 
 The figure above shows Anchorage as the most risky location for aircraft operations and Orlando and Chicago being among the locations safer for aircraft operations.
 
 ##### Objective 4: Determine the number of engines sufficient for ensuring the stability and safety of aircraft operations.
 The graphical representation aims to show the number of engines that are sufficient for ensuring stability and safety of aircraft operations. This will be achieved by checking for  count of engines in the  aircraft that had accidents.
-![alt text](V3-1.png)
-https://public.tableau.com/views/Book3_17431062493320/V3?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+![alt text](image3.png)
 
  From the figure we can clearly see that the Aircrafts with more than 4 engines have lesser occurrences of accidents.This could also mean that those aircrafts with less than four engines have a greater probability of accidents.
 
