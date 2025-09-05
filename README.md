@@ -1,5 +1,11 @@
 # PHASE 1 PROJECT
 
+#### Tableau links for story
+https://public.tableau.com/views/Book5_17431069873860/Visualizationsaddressingobjectives?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+
+###### More eda visualizations
+https://public.tableau.com/app/profile/lyster.k/viz/ACAnalysis_17570598052120/Eda?publish=yes
+
  ## AIRCRAFT RISK EVALUATION
 
  ## OVERVIEW
@@ -117,8 +123,7 @@ The graphical representation aims to show the number of engines that are suffici
 4.Opting for aircraft with four or more engines, which is considered the optimal number for stable and safe flights, can help minimize the risk of accidents.
 
 
-#### Tableau link for story
-https://public.tableau.com/views/Book5_17431069873860/Visualizationsaddressingobjectives?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+
 
 
 
